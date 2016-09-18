@@ -22,8 +22,8 @@ Server authentication via sticky token, using: passport, JWT, bcrypt
 
 ###Getting Started###
 ```
-  > git clone
-  > cd server
+  > git clone https://github.com/domainio/NodeJSServerAuth.git
+  > cd NodeJSServerAuth
   > npm install
   > \mongoDB\mongod.exe --dbpath="\server-side-app-db-data\db\"
   > create mongoDB collection name: 'auth1' (mongodb://localhost:27017/auth1)
