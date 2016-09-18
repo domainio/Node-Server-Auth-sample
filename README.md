@@ -30,4 +30,7 @@ Server authentication via sticky token, using: passport, JWT, bcrypt
   > npm run dev
 ```
 
-* FYI: token secret included just for app sample.
+* FYI: token secret included just for app dev sample.
+
+
+####Get the client side app [here](https://github.com/domainio/ReactReduxClientAuth)####
